@@ -74,7 +74,7 @@ function Technology(){
               </>
             ))}
 
-            <div className="advertisement">Advertisement</div>
+            <div className="advertisementtechnology">Advertisement</div>
         </div>
       </div>
         
