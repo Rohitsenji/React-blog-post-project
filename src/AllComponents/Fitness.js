@@ -43,7 +43,7 @@ function Fitness(){
                       src={item.image}
                       className="rightCardOneImg"
                       alt="err_"
-                      style={{width:"20vw",height:"30vh",marginTop:"10vh"}}
+                      
                     />
                     <div className="rightflex">
                       <div className="rightOne">
@@ -74,7 +74,7 @@ function Fitness(){
               </>
             ))}
 
-            <div className="advertisement">Advertisement</div>
+            <div className="advertisement fitnessadvertisement">Advertisement</div>
         </div>
       </div>
       
