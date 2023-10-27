@@ -9,7 +9,7 @@ import Food from "../AllComponents/Food";
 import Storedata from "../Routes/Storedata";
 import UsedataDynamically from "../Routes/Dynamicdata";
 import Footer from "../Footer/Footer";
-import HamburgerMenu from "./Hamburgermenu";
+// import HamburgerMenu from "./Hamburgermenu";
 // import { StoredData } from "../store/Store";
 
 const NavBar = () => {
