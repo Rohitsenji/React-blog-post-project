@@ -9,6 +9,7 @@ import Food from "../AllComponents/Food";
 import Storedata from "../Routes/Storedata";
 import UsedataDynamically from "../Routes/Dynamicdata";
 import Footer from "../Footer/Footer";
+import HamburgerMenu from "./Hamburgermenu";
 // import { StoredData } from "../store/Store";
 
 const NavBar = () => {
@@ -19,9 +20,9 @@ const NavBar = () => {
         <span className="The">THE</span>
         <span className="siren">SIREN</span>
     </div>
-    
+      {/* <HamburgerMenu /> */}
       <BrowserRouter>
-        <div className="Navbar">
+        <div className="Navbar ">
           <div className="NavTools">
             <Link to="/" className="Home">Home</Link>
           </div>
