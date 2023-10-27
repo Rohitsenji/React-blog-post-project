@@ -15,26 +15,26 @@ function Storedata(props) {
   {
     id: 2,
     category: "Bollywood",
-    name: "Bhaag Milkha Bhaag",
+    name: "Bhaag Milkha ",
     image:
-      "https://img.olympics.com/images/image/private/t_social_share_thumb/f_auto/primary/pfnqbuzkpijl8nk60eif",
-    text: "Bhaag Milkha Bhaag[4] (transl.Run, Milkha, run) is a 2013 Hindi-language biographical sports drama film directed by Rakeysh Omprakash Mehra, written by lyricist Prasoon Joshi and produced by Viacom 18 Motion Pictures in association with Rajiv Tandon and editor P.S. Bharathi under the ROMP Pictures banner. Based on the life of Milkha Singh, an Indian athlete and Olympian who was a champion of the Commonwealth Games and two-time 400m champion of the Asian Games, it stars Farhan Akhtar in the titular role alongside Divya Dutta, Meesha Shafi, Pavan Malhotra, Yograj Singh, Art Malik, and Prakash Raj in supporting roles with Sonam Kapoor in an extended cameo appearance. Sports was coordinated by the American action director Rob Miller of ReelSports.[5]Co-cinematography by Narendra Kumar Singh..",
+      "https://variety.com/wp-content/uploads/2013/07/bhaag-milkha-bhaag.jpg",
+    text: "Bhag  Milkha Bhag(transl.Run, Milkha, run) is a 2013 Hindi-language biographical sports drama film directed by Rakeysh Omprakash Mehra, written by lyricist Prasoon Joshi and produced by Viacom 18 Motion Pictures in association with Rajiv Tandon and editor P.S. Bharathi under the ROMP Pictures banner. Based on the life of Milkha Singh, an Indian athlete and Olympian who was a champion of the Commonwealth Games and two-time 400m champion of the Asian Games, it stars Farhan Akhtar in the titular role alongside Divya Dutta, Meesha Shafi, Pavan Malhotra, Yograj Singh, Art Malik, and Prakash Raj in supporting roles with Sonam Kapoor in an extended cameo appearance. Sports was coordinated by the American action director Rob Miller of ReelSports.[5]Co-cinematography by Narendra Kumar Singh..",
   },
   {
     id: 3,
     category: "Bollywood",
     name: "Jawan",
     image:
-      "https://pbs.twimg.com/media/FUahkDIaUAAPW63.jpg:large",
-    text: "Jawan (transl.Soldier) is a 2023 Indian Hindi-language action thriller film co-written and directed by Atlee as his first Hindi film.[4] It is produced by Gauri Khan and Gaurav Verma under Red Chillies Entertainment. The film stars Shah Rukh Khan in a dual role as father and son doppelgängers who team up to rectify corruption in society. Nayanthara, Vijay Sethupathi, Deepika Padukone (billed as a special appearance), Priyamani and Sanya Malhotra appear in supporting roles.",
+      "https://www.india.com/wp-content/uploads/2023/09/jawan-day-10-box-office-news.jpg",
+    text: "Jawan       (transl.Soldier) is a 2023 Indian Hindi-language action thriller film co-written and directed by Atlee as his first Hindi film.[4] It is produced by Gauri Khan and Gaurav Verma under Red Chillies Entertainment. The film stars Shah Rukh Khan in a dual role as father and son doppelgängers who team up to rectify corruption in society. Nayanthara, Vijay Sethupathi, Deepika Padukone (billed as a special appearance), Priyamani and Sanya Malhotra appear in supporting roles.",
   },
   {
     id: 4,
     category: "Bollywood",
-    name: "Ms-Dhoni The Untold story",
+    name: "M.S.Dhoni ",
     image:
       "https://images.jdmagicbox.com/comp/jd_social/news/2018aug09/image-244619-zf9smuveq9.jpg",
-    text: "M.S. Dhoni: The Untold Story is a 2016 Indian Hindi-language biographical sports drama film written and directed by Neeraj Pandey. It is based on the life of former Test, ODI and T20I captain of the Indian national cricket team, Mahendra Singh Dhoni. The film stars the late Sushant Singh Rajput as MS Dhoni, along with Disha Patani, Kiara Advani, and Anupam Kher. The film chronicles the life of Dhoni from a young age through a series of life events.",
+    text: "M.S.   Dhoni: The Untold Story is a 2016 Indian Hindi-language biographical sports drama film written and directed by Neeraj Pandey. It is based on the life of former Test, ODI and T20I captain of the Indian national cricket team, Mahendra Singh Dhoni. The film stars the late Sushant Singh Rajput as MS Dhoni, along with Disha Patani, Kiara Advani, and Anupam Kher. The film chronicles the life of Dhoni from a young age through a series of life events.",
   },
   {
     id: 5,
@@ -49,7 +49,7 @@ function Storedata(props) {
     category: "Bollywood",
     name: "RAEES",
     image:
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5LNYSz1xwidBgrDE-YzAPTOShlG3_VIpbOw&usqp=CAU",
+      "https://i.ndtvimg.com/i/2016-12/shahrukhkhan_640x480_71481550562.jpg",
     text: "Raees (transl. Rich) is a 2017 Indian Hindi-language action film[6] directed by Rahul Dholakia and produced by Red Chillies Entertainment and Excel Entertainment.[7] It stars Shah Rukh Khan, Nawazuddin Siddiqui and Mahira Khan.[8][9][10] Raees is said to be based on the criminal Abdul Latif's life,[11] however, the filmmakers have denied this.[12][13].The film was released on 25 January 2017 during India's Republic Day weekend.[1] It received overall positive reviews from the critics, who appreciated the performances of Khan and Siddiqui, production design, cinematography and visual effects, and was a huge success at the box office,[14] becoming the 6th highest-grossing Hindi film of 2017. Raees was also the most pirated Hindi film of 2017 but it started trending in 2023 in Netflix after 6 years of release.[15] The film's soundtrack has also received over 160 crore (1.6 billion) streams on YouTube.[16] The film received five nominations at the 63rd Filmfare Awards, including Best Actor for Khan. It became the 47th highest-grossing Indian film of all time.",
   },
   {
@@ -57,13 +57,13 @@ function Storedata(props) {
     category: "Bollywood",
     name: "OMG-2",
     image:
-      "https://organiser.org/wp-content/uploads/2023/07/whatsapp-image-2023-07-13-at-2.49.30-pm.jpeg",
-    text: "OMG 2 is a 2023 Indian Hindi-language comedy-drama film about sex education in India, written and directed by Amit Rai.[5][6][7][8][9] It is a spiritual sequel to OMG – Oh My God! (2012), and stars Akshay Kumar, Pankaj Tripathi and Yami Gautam Dhar.The film was theatrically released on 11 August 2023 to positive reviews from critics.[11] It has grossed over ₹220.49 crore (US$28 million) worldwide, emerging as the seventh highest-grossing Hindi film of 2023.[12]",
+      "https://englishtribuneimages.blob.core.windows.net/gallary-content/2023/7/2023_7$largeimg_361816654.jpg",
+    text: "OMG 2   is a 2023 Indian Hindi-language comedy-drama film about sex education in India, written and directed by Amit Rai.[5][6][7][8][9] It is a spiritual sequel to OMG – Oh My God! (2012), and stars Akshay Kumar, Pankaj Tripathi and Yami Gautam Dhar.The film was theatrically released on 11 August 2023 to positive reviews from critics.[11] It has grossed over ₹220.49 crore (US$28 million) worldwide, emerging as the seventh highest-grossing Hindi film of 2023.[12]",
   },
   {
     id: 8,
     category: "Bollywood",
-    name: "ROCKY Aur Rani Ki Prem Kahani",
+    name: "ROCKY aur Rani",
     image:
       "https://assets-in.bmscdn.com/discovery-catalog/events/et00312549-zmajejrcee-landscape.jpg",
     text: "Rocky Aur Rani Kii Prem Kahaani (transl.Rocky and Rani's Love Story), is a 2023 Indian Hindi-language romantic comedy family drama film directed by Karan Johar and written by Ishita Moitra, Shashank Khaitan and Sumit Roy. The film stars Ranveer Singh and Alia Bhatt as a couple with contrasting personalities who decide to live with each other's families for three months before getting married. Dharmendra, Jaya Bachchan, Shabana Azmi, Tota Roy Chowdhury, Churni Ganguly, Aamir Bashir, and Kshitee Jog play their family members.",
@@ -81,8 +81,8 @@ function Storedata(props) {
     category: "Bollywood",
     name: "Gadar -2",
     image:
-      "https://www.hindustantimes.com/ht-img/img/2023/07/26/900x1600/gadar_2_upcoming_1690363465208_1690363472660.jpg",
-    text: "Gadar 2 (transl.Rebellion 2; subtitled onscreen with The Katha Continues) is a 2023 Indian Hindi-language period action drama film directed and produced by Anil Sharma and written by Shaktimaan Talwar. A sequel to Gadar: Ek Prem Katha (2001), it stars Sunny Deol, Ameesha Patel and Utkarsh Sharma, who reprise their roles from the previous film.[5] During the Indo-Pakistani War of 1971, Tara Singh returns to Pakistan in order to rescue his imprisoned son Charanjeet jeete Singh.Gadar 2 was theatrically released on 11 August 2023 and became a commercial success, grossing over ₹691.08 crore (US$87 million) worldwide against a production budget of ₹60 crore (US$7.5 million). It is the third highest-grossing Indian film of 2023 and seventh highest-grossing Hindi film of all-time.[6][7]",
+      "https://akm-img-a-in.tosshub.com/indiatoday/images/media_bank/202308/gadar-2-passed-with-10-cuts-020258-16x9_0.jpeg?VersionId=J4B0xkQmbmPhdai0y7Twr5YR5MUsnaQ5&size=690:388",
+    text: "Gadar     2 (transl.Rebellion 2; subtitled onscreen with The Katha Continues) is a 2023 Indian Hindi-language period action drama film directed and produced by Anil Sharma and written by Shaktimaan Talwar. A sequel to Gadar: Ek Prem Katha (2001), it stars Sunny Deol, Ameesha Patel and Utkarsh Sharma, who reprise their roles from the previous film.[5] During the Indo-Pakistani War of 1971, Tara Singh returns to Pakistan in order to rescue his imprisoned son Charanjeet jeete Singh.Gadar 2 was theatrically released on 11 August 2023 and became a commercial success, grossing over ₹691.08 crore (US$87 million) worldwide against a production budget of ₹60 crore (US$7.5 million). It is the third highest-grossing Indian film of 2023 and seventh highest-grossing Hindi film of all-time.[6][7]",
   },
 
   // Hollywood section 
@@ -92,7 +92,7 @@ function Storedata(props) {
     name: "Avengers",
     image:
       "https://cdn11.bigcommerce.com/s-8smrzb0w7f/images/stencil/original/products/58082/58811/91PT9YqnRrL._SL1500___19789.1602906710.jpg",
-    text: "Marvel's The Avengers[5] (classified under the name Marvel Avengers Assemble in the United Kingdom and Ireland),[1][6] or simply The Avengers, is a 2012 American superhero film based on the Marvel Comics superhero team of the same name. Produced by Marvel Studios and distributed by Walt Disney Studios Motion Pictures,[a] it is the sixth film in the Marvel Cinematic Universe (MCU). Written and directed by Joss Whedon, the film features an ensemble cast including Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth, Scarlett Johansson, and Jeremy Renner as the Avengers, alongside Tom Hiddleston, Stellan Skarsgård, and Samuel L. Jackson. In the film, Nick Fury and the spy agency S.H.I.E.L.D. recruit Tony Stark, Steve Rogers, Bruce Banner, Thor, Natasha Romanoff, and Clint Barton to form a team capable of stopping Thor's brother Loki from subjugating Earth.",
+    text: "Marvel'     s The Avengers[5] (classified under the name Marve l Avengers Assemble in the United Kingdom and Ireland),[1][6] or simply The Avengers, is a 2012 American superhero film based on the Marvel Comics superhero team of the same name. Produced by Marvel Studios and distributed by Walt Disney Studios Motion Pictures,[a] it is the sixth film in the Marvel Cinematic Universe (MCU). Written and directed by Joss Whedon, the film features an ensemble cast including Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth, Scarlett Johansson, and Jeremy Renner as the Avengers, alongside Tom Hiddleston, Stellan Skarsgård, and Samuel L. Jackson. In the film, Nick Fury and the spy agency S.H.I.E.L.D. recruit Tony Stark, Steve Rogers, Bruce Banner, Thor, Natasha Romanoff, and Clint Barton to form a team capable of stopping Thor's brother Loki from subjugating Earth.",
   },
   {
     id: 12,
@@ -100,7 +100,7 @@ function Storedata(props) {
     name: "Wanda  Vision",
     image:
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS81X5Tt-TVCNg4Hcv1KpsVPrHoCPL7BQXXwA&usqp=CAU",
-    text: "WandaVision is an American television miniseries created by Jac Schaeffer for the streaming service Disney+, based on Marvel Comics featuring the characters Wanda Maximoff / Scarlet Witch and Vision. It is the first television series in the Marvel Cinematic Universe (MCU) produced by Marvel Studios, sharing continuity with the films of the franchise, and is set after the events of the film Avengers: Endgame (2019). It follows Wanda Maximoff and Vision as they live an idyllic suburban life in the town of Westview, New Jersey, until their reality starts moving through different decades of sitcom homages and television tropes. Schaeffer served as head writer for the series, which was directed by Matt Shakman.",
+    text: "WandaVision      is an American television miniseries created by Jac Schaeffer for the streaming service Disney+, based on Marvel Comics featuring the characters Wanda Maximoff / Scarlet Witch and Vision. It is the first television series in the Marvel Cinematic Universe (MCU) produced by Marvel Studios, sharing continuity with the films of the franchise, and is set after the events of the film Avengers: Endgame (2019). It follows Wanda Maximoff and Vision as they live an idyllic suburban life in the town of Westview, New Jersey, until their reality starts moving through different decades of sitcom homages and television tropes. Schaeffer served as head writer for the series, which was directed by Matt Shakman.",
   },
   {
     id: 13,
@@ -108,7 +108,7 @@ function Storedata(props) {
     name: "Parasite",
     image:
       "https://parade.com/.image/t_share/MTkwNTgxMjk2NzkxODg5MDIx/parasite2.jpg",
-    text: "Parasite (Korean: 기생충; Hanja: 寄生蟲; RR: Gisaengchung) is a 2019 South Korean black comedy thriller film directed by Bong Joon-ho, who co-wrote the screenplay with Han Jin-won and co-produced. The film, starring Song Kang-ho, Lee Sun-kyun, Cho Yeo-jeong, Choi Woo-shik, Park So-dam, Jang Hye-jin, Park Myung-hoon and Lee Jung-eun, follows a poor family who scheme to become employed by a wealthy family, infiltrating their household by posing as unrelated, highly qualified individuals.The script is based on Bong's source material from a play written in 2013. He later adapted it into a 15-page film draft, and it was split into three different drafts by Han. Bong stated that he was inspired by the 1960 Korean film The Housemaid, and by the Christine and Léa Papin incident in the 1930s. Filming began in May 2018 and finished that September. The project included cinematographer Hong Kyung-pyo, film editor Yang Jin-mo, and composer Jung Jae-il. Darcy Paquet, an American film critic and author, provided English translations for the film's international release.",
+    text: "Parasite        (Korean: 기생충; Hanja: 寄生蟲; RR: Gisaengchung) is a 2019 South Korean black comedy thriller film directed by Bong Joon-ho, who co-wrote the screenplay with Han Jin-won and co-produced. The film, starring Song Kang-ho, Lee Sun-kyun, Cho Yeo-jeong, Choi Woo-shik, Park So-dam, Jang Hye-jin, Park Myung-hoon and Lee Jung-eun, follows a poor family who scheme to become employed by a wealthy family, infiltrating their household by posing as unrelated, highly qualified individuals.The script is based on Bong's source material from a play written in 2013. He later adapted it into a 15-page film draft, and it was split into three different drafts by Han. Bong stated that he was inspired by the 1960 Korean film The Housemaid, and by the Christine and Léa Papin incident in the 1930s. Filming began in May 2018 and finished that September. The project included cinematographer Hong Kyung-pyo, film editor Yang Jin-mo, and composer Jung Jae-il. Darcy Paquet, an American film critic and author, provided English translations for the film's international release.",
   },
   {
     id: 14,
@@ -124,7 +124,7 @@ function Storedata(props) {
     name: "The Zero Theorem",
     image:
       "https://www.indiewire.com/wp-content/uploads/2017/09/the-zero-theorem-2013.jpg?w=673",
-    text: "The Zero Theorem is a 2013 science fiction film directed by Terry Gilliam, starring Christoph Waltz, David Thewlis, Mélanie Thierry and Lucas Hedges. Written by Pat Rushin, the story is about Qohen Leth (Waltz), a reclusive computer genius tasked with solving a formula that will determine whether life holds meaning. The film began production in October 2012.[5]Gilliam has given conflicting statements about whether The Zero Theorem is meant as the third part of a satirical dystopian trilogy  that began with 1985's Brazil and continued with 1995's 12 Monkeys.[6][7][8]",
+    text: "The Zero      Theorem is a 2013 science fiction film directed by Terry Gilliam, starring Christoph Waltz, David Thewlis, Mélanie Thierry and Lucas Hedges. Written by Pat Rushin, the story is about Qohen Leth (Waltz), a reclusive computer genius tasked with solving a formula that will determine whether life holds meaning. The film began production in October 2012.[5]Gilliam has given conflicting statements about whether The Zero Theorem is meant as the third part of a satirical dystopian trilogy  that began with 1985's Brazil and continued with 1995's 12 Monkeys.[6][7][8]",
   },
   {
     id: 16,
@@ -132,23 +132,23 @@ function Storedata(props) {
     name: "Iron Man 3",
     image:
       "https://m.media-amazon.com/images/I/8159UW0-AEL._AC_UF894,1000_QL80_.jpg",
-    text: "Iron Man 3 (titled onscreen as Iron Man Three)[4][5] is a 2013 American superhero film based on the Marvel Comics character Iron Man, produced by Marvel Studios and distributed by Walt Disney Studios Motion Pictures.[a] It is the sequel to Iron Man (2008) and Iron Man 2 (2010), and the seventh film in the Marvel Cinematic Universe (MCU). The film was directed by Shane Black from a screenplay he co-wrote with Drew Pearce, and stars Robert Downey Jr. as Tony Stark / Iron Man alongside Gwyneth Paltrow, Don Cheadle, Guy Pearce, Rebecca Hall, Stéphanie Szostak, James Badge Dale, William Sadler, Miguel Ferrer, Jon Favreau, and Ben Kingsley. In the film, Tony Stark grapples with the consequences of the events of The Avengers (2012) during a national terrorism campaign on the United States led by the mysterious Mandarin.",
+    text: "Iron    Man 3 (titled onscreen as Iron Man Three)[4][5] is a 2013 American superhero film based on the Marvel Comics character Iron Man, produced by Marvel Studios and distributed by Walt Disney Studios Motion Pictures.[a] It is the sequel to Iron Man (2008) and Iron Man 2 (2010), and the seventh film in the Marvel Cinematic Universe (MCU). The film was directed by Shane Black from a screenplay he co-wrote with Drew Pearce, and stars Robert Downey Jr. as Tony Stark / Iron Man alongside Gwyneth Paltrow, Don Cheadle, Guy Pearce, Rebecca Hall, Stéphanie Szostak, James Badge Dale, William Sadler, Miguel Ferrer, Jon Favreau, and Ben Kingsley. In the film, Tony Stark grapples with the consequences of the events of The Avengers (2012) during a national terrorism campaign on the United States led by the mysterious Mandarin.",
   },
   {
     id: 17,
     category: "Hollywood",
-    name: "Spider man Far From Home",
+    name: "Spider man Far  Home",
     image:
-      "https://images.thedirect.com/media/photos/Untitled-1_0016_marvel-cinematic-universe-spiderman-far-from-home-movie-poster.jpg",
-    text: "Spider-Man: Far From Home is a 2019 American superhero film based on the Marvel Comics character Spider-Man, co-produced by Columbia Pictures and Marvel Studios, and distributed by Sony Pictures Releasing. It is the sequel to Spider-Man: Homecoming (2017) and the 23rd film in the Marvel Cinematic Universe (MCU). The film was directed by Jon Watts, written by Chris McKenna and Erik Sommers, and stars Tom Holland as Peter Parker / Spider-Man, alongside Samuel L. Jackson, Zendaya, Cobie Smulders, Jon Favreau, J. B. Smoove, Jacob Batalon, Martin Starr, Tony Revolori, Marisa Tomei, and Jake Gyllenhaal. In the film, Parker is recruited by Nick Fury (Jackson) and Mysterio (Gyllenhaal) to face the Elementals while he is on a school trip to Europe.",
+      "https://cdn.marvel.com/content/1x/spider-manfarfromhome_lob_crd_04_0.jpg",
+    text: "Spider-Man       : Far From Home is a 2019 American superhero film based on the Marvel Comics character Spider-Man, co-produced by Columbia Pictures and Marvel Studios, and distributed by Sony Pictures Releasing. It is the sequel to Spider-Man: Homecoming (2017) and the 23rd film in the Marvel Cinematic Universe (MCU). The film was directed by Jon Watts, written by Chris McKenna and Erik Sommers, and stars Tom Holland as Peter Parker / Spider-Man, alongside Samuel L. Jackson, Zendaya, Cobie Smulders, Jon Favreau, J. B. Smoove, Jacob Batalon, Martin Starr, Tony Revolori, Marisa Tomei, and Jake Gyllenhaal. In the film, Parker is recruited by Nick Fury (Jackson) and Mysterio (Gyllenhaal) to face the Elementals while he is on a school trip to Europe.",
   },
   {
     id: 18,
     category: "Hollywood",
-    name: "Dr Strange in Mutiverse of Madness",
+    name: "Dr Strange ",
     image:
       "https://static.wixstatic.com/media/c0ca52_861cbfbd84344362a233f609406354cd~mv2.jpg/v1/fit/w_540%2Ch_675%2Cal_c%2Cq_80,enc_auto/file.jpg",
-    text: "Doctor Strange in the Multiverse of Madness is a 2022 American superhero film based on Marvel Comics featuring the character Doctor Strange. Produced by Marvel Studios and distributed by Walt Disney Studios Motion Pictures, it is the sequel to Doctor Strange (2016) and the 28th film in the Marvel Cinematic Universe (MCU). The film was directed by Sam Raimi, written by Michael Waldron, and stars Benedict Cumberbatch as Stephen Strange, alongside Elizabeth Olsen, Chiwetel Ejiofor, Benedict Wong, Xochitl Gomez, Michael Stuhlbarg, and Rachel McAdams. In the film, Strange protects America Chavez (Gomez), a teenager capable of traveling the multiverse, from Wanda Maximoff (Olsen).",
+    text: "Doctor       Strange in the Multiverse of Madness is a 2022 American superhero film based on Marvel Comics featuring the character Doctor Strange. Produced by Marvel Studios and distributed by Walt Disney Studios Motion Pictures, it is the sequel to Doctor Strange (2016) and the 28th film in the Marvel Cinematic Universe (MCU). The film was directed by Sam Raimi, written by Michael Waldron, and stars Benedict Cumberbatch as Stephen Strange, alongside Elizabeth Olsen, Chiwetel Ejiofor, Benedict Wong, Xochitl Gomez, Michael Stuhlbarg, and Rachel McAdams. In the film, Strange protects America Chavez (Gomez), a teenager capable of traveling the multiverse, from Wanda Maximoff (Olsen).",
   },
   {
     id: 19,
@@ -156,15 +156,15 @@ function Storedata(props) {
     name: "Captain Marvel",
     image:
       "https://akns-images.eonline.com/eol_images/Entire_Site/2019016/rs_634x939-190116090754-634.captain-marvel-poster-2.11619.jpg?fit=around%7C634:939&output-quality=90&crop=634:939;center,top",
-    text: "Captain Marvel is a 2019 American superhero film based on Marvel Comics featuring the character Carol Danvers / Captain Marvel. Produced by Marvel Studios and distributed by Walt Disney Studios Motion Pictures, it is the 21st film in the Marvel Cinematic Universe (MCU). The film was directed by Anna Boden and Ryan Fleck from a screenplay they co-wrote with Geneva Robertson-Dworet. It stars Brie Larson as Carol Danvers, alongside Samuel L. Jackson, Ben Mendelsohn, Djimon Hounsou, Lee Pace, Lashana Lynch, Gemma Chan, Annette Bening, Clark Gregg, and Jude Law. Set in 1995, the story follows Danvers as she becomes Captain Marvel after Earth is caught in the center of a galactic conflict between two alien civilizations.",
+    text: "Captain      Marvel is a 2019 American superhero film based on Marvel Comics featuring the character Carol Danvers / Captain Marvel. Produced by Marvel Studios and distributed by Walt Disney Studios Motion Pictures, it is the 21st film in the Marvel Cinematic Universe (MCU). The film was directed by Anna Boden and Ryan Fleck from a screenplay they co-wrote with Geneva Robertson-Dworet. It stars Brie Larson as Carol Danvers, alongside Samuel L. Jackson, Ben Mendelsohn, Djimon Hounsou, Lee Pace, Lashana Lynch, Gemma Chan, Annette Bening, Clark Gregg, and Jude Law. Set in 1995, the story follows Danvers as she becomes Captain Marvel after Earth is caught in the center of a galactic conflict between two alien civilizations.",
   },
   {
     id: 20,
     category: "Hollywood",
-    name: "Captain America- Civil War",
+    name: "Captain America- ",
     image:
       "https://upload.wikimedia.org/wikipedia/en/5/53/Captain_America_Civil_War_poster.jpg",
-    text: "Captain America: Civil War is a 2016 American superhero film based on the Marvel Comics character Captain America, produced by Marvel Studios and distributed by Walt Disney Studios Motion Pictures. It is the sequel to Captain America: The First Avenger (2011) and Captain America: The Winter Soldier (2014), and the 13th film in the Marvel Cinematic Universe (MCU). The film was directed by Anthony and Joe Russo from a screenplay by the writing team of Christopher Markus and Stephen McFeely, and stars Chris Evans as Steve Rogers / Captain America alongside an ensemble cast including Robert Downey Jr., Scarlett Johansson, Sebastian Stan, Anthony Mackie, Don Cheadle, Jeremy Renner, Chadwick Boseman, Paul Bettany, Elizabeth Olsen, Paul Rudd, Emily VanCamp, Marisa Tomei, Tom Holland, Frank Grillo, Martin Freeman, William Hurt, and Daniel Brühl. In Captain America: Civil War, disagreement over international oversight of the Avengers fractures the team into two opposing factions—one led by Steve Rogers and the other by Tony Stark (Downey).",
+    text: "Captain     America: Civil War is a 2016 American superhero film based on the Marvel Comics character Captain America, produced by Marvel Studios and distributed by Walt Disney Studios Motion Pictures. It is the sequel to Captain America: The First Avenger (2011) and Captain America: The Winter Soldier (2014), and the 13th film in the Marvel Cinematic Universe (MCU). The film was directed by Anthony and Joe Russo from a screenplay by the writing team of Christopher Markus and Stephen McFeely, and stars Chris Evans as Steve Rogers / Captain America alongside an ensemble cast including Robert Downey Jr., Scarlett Johansson, Sebastian Stan, Anthony Mackie, Don Cheadle, Jeremy Renner, Chadwick Boseman, Paul Bettany, Elizabeth Olsen, Paul Rudd, Emily VanCamp, Marisa Tomei, Tom Holland, Frank Grillo, Martin Freeman, William Hurt, and Daniel Brühl. In Captain America: Civil War, disagreement over international oversight of the Avengers fractures the team into two opposing factions—one led by Steve Rogers and the other by Tony Stark (Downey).",
   },
   // Technology section
   {
@@ -294,7 +294,7 @@ function Storedata(props) {
     category: "Fitness",
     name: "Jennifer Aniston reveals her 4-rule mantra to stay fit in her 50s",
     image:
-      "https://images.indianexpress.com/2023/10/jennifer-aniston.jpg?w=640",
+      "https://images.pexels.com/photos/1547248/pexels-photo-1547248.jpeg?cs=srgb&dl=pexels-pikx-by-panther-1547248.jpg&fm=jpg",
     text: "Jennifer Aniston, a Hollywood icon celebrated from her Friends era to her current role in the Morning Show, continues to captivate with her timeless beauty and enviable physique. Recently, she unveiled the four simple principles that underpin her fitness regimen in her 50s, offering insights that anyone can easily adopt.",
   },
   {
