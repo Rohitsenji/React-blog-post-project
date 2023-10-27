@@ -14,10 +14,11 @@ const UsedataDynamically = () => {
       .map((item) => {
         return(
             <>
-             <h2>{item.name}</h2>
-             <img src={item.image} alt="err" style={{width:"50vw",borderRadius:"20px" }}/>
-             <p>{item.text}</p>
-             <button onClick={()=> navigation(-1)} style={{backgroundColor:"skyblue",width:"10vw",height:"5vw",borderRadius:"20px", fontSize:'1.2rem',color:"whitesmoke",borderColor:"transparent"}}>Back</button>
+             <h2 className="dynamicontentheading">{item.name}</h2>
+             <img className="dynamiccontentimage" src={item.image} alt="err"/>
+             <p >{item.text}</p>
+             <button onClick={()=> navigation(-1)}
+             className="Gobackbutton" >Back</button>
             </>
         )
       })
