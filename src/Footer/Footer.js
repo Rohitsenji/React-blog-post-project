@@ -9,18 +9,21 @@ function Footer() {
           <div className="leftNav">
             <h5>
               About :
-              <p className="aboutfooter" style={{ fontSize: "0.5rem", width: "30vw", height: "14vh" }}>
-                The page is broken into Five sections, making it easy to digest
-                in chunks. 
+              <p className="aboutfooter" >
+                Hey this is Footer part if you need and kind of help please conatct us. 
                 <br />
                 
               </p>
             </h5>
-            <h5>
+            
+          </div>
+          
+          <div>
+          <h3>
               Contact :
-              <p className="Email" style={{ fontSize: "0.7rem" }}>rohitsenji1234@gmail.com</p>
-              <p className="mobileno" style={{ fontSize: "0.7rem" }}>Mobile-no- 7024536661</p>
-            </h5>
+              <p className="Email">rohitsenji1234@gmail.com</p>
+              <p className="mobileno" >Mobile-no- 7024536661</p>
+            </h3>
           </div>
           {/* <p className="footer-content" style={{fontSize:"1rem"}}>copyright&copy; 2023 Rohit Sen</p> */}
           <div className="icons">
