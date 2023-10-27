@@ -42,11 +42,9 @@ function Home() {
         </h3>
         <div
           className="latestcontainer"
-          style={{ width: "80%", display: "flex", boxSizing: "border-box" }}
+         
         >
-          {/* <div className='latestimage'></div>
-      <div className='latestimage'></div>
-      <div className='latestimage'></div> */}
+          
           {Received.filter((item) => item.id >= 22 && item.id <= 24).map(
             (item, index) => {
               return (
@@ -94,7 +92,7 @@ function Home() {
                           alt="Not Found"
                           
                         />
-                        <div className="Articletext">
+                        <div className="Movietext">
                           <h4>{item.name}</h4>
                           <p className="text" >
                             {item.text.slice(0, 150)}..
@@ -190,7 +188,7 @@ function Home() {
                     <div className="storiescontent">
                       <p style={{ fontSize: "1rem" }}>{item.name}</p>
                       <p style={{ fontSize: "1rem" }}>
-                        {item.text.slice(0, 40)}..
+                        {item.text.slice(0, 20)}..
                       </p>
                     </div>
                   </Link>
