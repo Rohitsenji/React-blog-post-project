@@ -48,11 +48,14 @@ function Hollywood(){
                     <div className="rightFlex">
                       <div className="rightOne">
                         <h4 className="rightCardOneHeading">{item.name}</h4>
+                        <div className='righttwo'>
                         <p className="rightContent">
                           {item.text.slice(0, 50)}...
                         </p>
+                        <p className="rightCardNumber">1</p>
                       </div>
-                      <p className="rightCardNumber">1</p>
+                      
+                      </div>
                     </div>
                   </div>
                 </Link>
@@ -60,7 +63,7 @@ function Hollywood(){
             ))}
 
           {filtered
-            .filter((item) => item.id >= 17 && item.id <= 20)
+            .filter((item) => item.id >= 15 && item.id <= 20)
             .map((item, index) => (
               <>
                 <Link className="rightLink" to={`/Details/${item.id}`}>
@@ -74,7 +77,7 @@ function Hollywood(){
               </>
             ))}
 
-            <div className="advertisement">Advertisement</div>
+            <div className="advertisement hollyadvertise">Advertisement</div>
         </div>
       </div>
       
