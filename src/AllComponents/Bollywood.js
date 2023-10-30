@@ -15,7 +15,9 @@ function Bollywood(){
      <div className="bollywoodContainer">
         <div className="left">
           <h2 className="bollywoodHeading">Bollywood </h2>
-            {filtered.map((item) => (
+            {filtered
+                .filter((item) => item.id >= 4 && item.id <= 10)
+                .map((item) => (
                 <> 
                 <Link to={`/Details/${item.id}`}>
                 <div className="contentcontainer">
