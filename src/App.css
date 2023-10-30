@@ -443,25 +443,35 @@ a:hover {
 .Navbar2{
   display: none;
 }
+.Navbar {
+display: flex;
+ 
+}
+.Navbar a{
+  color: #376c6e;
+  margin-top: 4vh ;
+  font-weight: bold;
+  display: flex;
+  justify-content: space-between;
+  box-shadow: 10px grey;
+}
 /* mobile/........................................................................................ */ 
 
 
 @media (max-width:768px){
-  /* .Navbarnone{
-    display: none;
-  } */
+  .Navbarnone{
+    background-color: rgb(238, 238, 238);
+    box-shadow:  5px 5px 10px rgba(0, 0, 0, 0.3);
+    margin-top: 3vh;
+  }
   .NavTools a{
     font-size: 1.3rem;
     font-weight: bolder;
     color: #376c6e;
   }
   .Navbar2{
-    box-shadow:  5px 5px 10px rgba(0, 0, 0, 0.3);
-    background-color: rgb(209, 201, 201);
-    margin-top: 3vh;
     display: flex;
     flex-direction: column;
-    
     text-align: center;
   }
   .Navbar{
@@ -469,6 +479,9 @@ a:hover {
   }
   .morefromsirentext{
     width: 40vw;
+  }
+   .NavTools{
+    margin-top: 2vh;
   }
   .dynamicmoreimages{
     margin-left: 5vw;
@@ -486,6 +499,7 @@ a:hover {
   } */
 .hamburgermenu{
     display: block;
+  font-size: 1.5rem;
   }
   /* .Hamburgermenu{
     display: block;
