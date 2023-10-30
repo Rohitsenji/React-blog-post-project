@@ -455,6 +455,9 @@ display: flex;
   justify-content: space-between;
   box-shadow: 10px grey;
 }
+.foodadvertisement{
+  height: 83vw;
+}
 /* mobile/........................................................................................ */ 
 
 
