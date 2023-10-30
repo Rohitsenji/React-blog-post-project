@@ -15,7 +15,7 @@ function Fitness(){
         <div className="left">
           <h2 className="bollywoodHeading">Fitness</h2>
           {filtered
-            .filter((item) => item.id === 36)
+             .filter((item) => item.id >= 30 && item.id <= 36)
             .map((item) => (
             <>
               <Link to={`/Details/${item.id}`}>
