@@ -130,7 +130,7 @@ function Home() {
           </div>
           <div className="Toppost">
             <h2>Top Post</h2>
-            {Received.filter((item) => item.id >= 34 && item.id <= 37).map(
+            {Received.filter((item) => item.id >= 34 && item.id <= 36).map(
               (item, index) => {
                 return (
                   <div key={index} className="toppostArticle">
