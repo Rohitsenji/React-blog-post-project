@@ -472,6 +472,9 @@ display: flex;
     font-weight: bolder;
     color: #376c6e;
   }
+  .NavTools{
+    margin-top: 2vh;
+  }
   .Navbar2{
     display: flex;
     flex-direction: column;
@@ -482,9 +485,6 @@ display: flex;
   }
   .morefromsirentext{
     width: 40vw;
-  }
-   .NavTools{
-    margin-top: 2vh;
   }
   .dynamicmoreimages{
     margin-left: 5vw;
@@ -502,7 +502,7 @@ display: flex;
   } */
 .hamburgermenu{
     display: block;
-  font-size: 1.5rem;
+    font-size: 1.5rem;
   }
   /* .Hamburgermenu{
     display: block;
@@ -530,10 +530,11 @@ display: flex;
   .Movieimages {
     width: 33vw;
     height: 25vh;
-    margin-top: 0vh;
+    margin-top: 5vh;
 }
 .Movietext {
-  margin-top: 12vh;
+  margin-top: 5vh;
+  margin-bottom: 5vh;
   padding-right: 4vw;
 }
     /* .Navbar {
