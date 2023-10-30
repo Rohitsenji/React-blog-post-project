@@ -16,7 +16,9 @@ function Food(){
      <div className="bollywoodContainer">
         <div className="left">
           <h2 className="bollywoodHeading">Food Section</h2>
-          {filtered.map((item, index) => (
+          {filtered
+            .filter((item)=>item.id>=43 && item.id<=50)
+            .map((item, index) => (
             <>
               <Link to={`/Details/${item.id}`}>
                 <div className="contentcontainer">
