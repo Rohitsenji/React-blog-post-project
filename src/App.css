@@ -117,13 +117,13 @@ a:hover {
   margin-top: 7vh;
 }
 .cardContent{
-    margin-top: 5vw;
+    margin-top: 8vw;
     margin-left: 2vw;
 }
 .imagecontainer img{
   width: 15vw;
   /* min-height: 20vh; */
-  /* height: 40vh; */
+  height: 30vh;
   border-radius: 20px;
   background-color: #282c34;
 }
@@ -261,7 +261,7 @@ a:hover {
 
 .Movietext{
  
-  margin-top: 20vh;
+  margin-top: 10vh;
   padding-right: 4vw;
 }
 .Homeadvertise{
@@ -288,7 +288,7 @@ a:hover {
   width: 27vw;
 }
 .toparticle img{
-  width: 20vw;
+  width: 10vw;
 }
 .textt{
   margin: 2vw;
@@ -325,6 +325,7 @@ a:hover {
 .Articlelatest{
   display: flex;
   width: 50vw;
+  margin-top: 5vh;
   background-color: rgb(232, 241, 245);
   box-shadow:  5px 5px 10px rgba(0, 0, 0, 0.3);
   margin-bottom: 2vh;
@@ -357,7 +358,7 @@ a:hover {
 }
 .Movieimages{
   width: 20vw;
-  min-height: 35vh;
+  height: 30vh;
   border-radius: 10px;
   /* width: 25vw; */
   margin-top: 1.5vw;
@@ -379,9 +380,10 @@ a:hover {
 }
 .hollyadvertise{
   margin-top: 10vh;
-  height: 80vw;
+  height: 50vw;
 }
 .rightCardTwoName{
+  width: 30vw;
   margin-top: 10vh;
 }
 .rightCardTwoNumber{
@@ -409,16 +411,6 @@ a:hover {
 /* responsiveness on 
 
 /* hamburgermenu */
-.hamburger-menu {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-}
-
-.hamburger {
-  cursor: pointer;
-}
-
 .line {
   width: 30px;
   height: 3px;
@@ -426,45 +418,125 @@ a:hover {
   margin: 4px 0;
 }
 
-.menu{
+
+.morefromsirentext{
+  width: 15vw;
+  color: orange;
+}
+.Morearticles{
+  display: flex;
+  margin-top: 5vh;
+}
+.hamburgermenu{
+  margin-top: 2vh;
+  float: right;
+  width: 8vw;
+  display: none;
+  cursor: pointer;
+}
+.hamburgermenucompo{
+  width: 80vw;
+}
+.Hamburgermenucompo div{
+  width: 80vw;
+}
+.Navbar2{
   display: none;
 }
-
-.hamburger-menu.open .menu {
-  display: block;
-}
-.hamburger{
-  display: block;
-}
-
-
 /* mobile/........................................................................................ */ 
 
 
 @media (max-width:768px){
-  
+  /* .Navbarnone{
+    display: none;
+  } */
+  .NavTools a{
+    font-size: 1.3rem;
+    font-weight: bolder;
+    color: #376c6e;
+  }
+  .Navbar2{
+    box-shadow:  5px 5px 10px rgba(0, 0, 0, 0.3);
+    background-color: rgb(209, 201, 201);
+    margin-top: 3vh;
+    display: flex;
+    flex-direction: column;
+    
+    text-align: center;
+  }
+  .Navbar{
+    display: none;
+  }
+  .morefromsirentext{
+    width: 40vw;
+  }
+  .dynamicmoreimages{
+    margin-left: 5vw;
+    margin-top: 2vh;
+    width: 80vw;
+  }
+  .Morearticles{
+    display: flex;
+    flex-direction: column;
+  }
+  /* .menuIcon {
+    display: block;
+    width: 10vw;
+    margin: 0vw 3vw;
+  } */
+.hamburgermenu{
+    display: block;
+  }
+  /* .Hamburgermenu{
+    display: block;
+    font-size: 10vw;
+    width: 100%;
+    height: fit-content;
+    letter-spacing: 0.2vw;
+    position: fixed;
+    right: 0vw;
+    top: 2vw;
+    text-align: center;
+    background-color: rgb(212, 212, 212)
+  } */
+  /* .Hamburgermenu div {
+    border-bottom: 1px solid white;
+    width: fit-content;
+    padding: 2vw 0vw;
+    margin: 0vw auto;
+  } */
+
+  .Hamburgermenu div a {
+    color: rgb(19, 18, 18);
+    font-size: 2rem;
+  }
   .Movieimages {
     width: 33vw;
     height: 25vh;
-    margin-top: 10vh;
+    margin-top: 0vh;
 }
 .Movietext {
   margin-top: 12vh;
   padding-right: 4vw;
 }
-    .Navbar {
+    /* .Navbar {
       display: flex;
-    }
-    .hamburger {
+    } */
+    /* .hamburger {
       display: none;
     }
-  
+   */
   .LatestStories h3{
   width: 55vw;
 }
   .textt{
     margin: 2vw;
     margin-top: 8vh;
+  }
+  .Articlelatest{
+    
+    width: 80vw;
+   
   }
   .toparticle{
     display: flex;
@@ -581,7 +653,7 @@ a:hover {
   width: 50vw;
 }
 .rightcardTwoImg {
-  width: 25vw;
+  width: 40vw;
   
 }
 .leftNav {
