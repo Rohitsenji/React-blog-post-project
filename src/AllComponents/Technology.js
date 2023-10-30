@@ -15,7 +15,9 @@ function Technology(){
      <div className="bollywoodContainer">
         <div className="left">
           <h2 className="bollywoodHeading">Technology </h2>
-          {filtered.map((item, index) => (
+          {filtered
+            .filter((item) => item.id >= 24 && item.id <= 30)
+            .map((item, index) => (
             <>
               <Link to={`/Details/${item.id}`}>
                 <div className="contentcontainer">
