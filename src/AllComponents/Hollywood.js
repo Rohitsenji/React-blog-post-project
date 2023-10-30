@@ -15,7 +15,9 @@ function Hollywood(){
      <div className="bollywoodContainer">
         <div className="left">
           <h2 className="bollywoodHeading">Hollywood </h2>
-          {filtered.map((item) => (
+          {filtered
+            .filter((item) => item.id >= 12 && item.id <= 20)
+            .map((item) => (
             <>
               <Link to={`/Details/${item.id}`}>
                 <div className="contentcontainer">
