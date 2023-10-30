@@ -26,7 +26,7 @@ function Storedata(props) {
     name: "Jawan",
     image:
       "https://www.india.com/wp-content/uploads/2023/09/jawan-day-10-box-office-news.jpg",
-    text: "Jawan(transl.Soldier) is a 2023 Indian Hindi-language action thriller film co-written and directed by Atlee as his first Hindi film.[4] It is produced by Gauri Khan and Gaurav Verma under Red Chillies Entertainment. The film stars Shah Rukh Khan in a dual role as father and son doppelgängers who team up to rectify corruption in society. Nayanthara, Vijay Sethupathi, Deepika Padukone (billed as a special appearance), Priyamani and Sanya Malhotra appear in supporting roles.",
+    text: "Jawan      (transl.Soldier) is a 2023 Indian Hindi-language action thriller film co-written and directed by Atlee as his first Hindi film.[4] It is produced by Gauri Khan and Gaurav Verma under Red Chillies Entertainment. The film stars Shah Rukh Khan in a dual role as father and son doppelgängers who team up to rectify corruption in society. Nayanthara, Vijay Sethupathi, Deepika Padukone (billed as a special appearance), Priyamani and Sanya Malhotra appear in supporting roles.",
   },
   {
     id: 4,
