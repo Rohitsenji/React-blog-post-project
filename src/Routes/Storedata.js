@@ -26,7 +26,7 @@ function Storedata(props) {
     name: "Jawan",
     image:
       "https://www.india.com/wp-content/uploads/2023/09/jawan-day-10-box-office-news.jpg",
-    text: "Jawan       (transl.Soldier) is a 2023 Indian Hindi-language action thriller film co-written and directed by Atlee as his first Hindi film.[4] It is produced by Gauri Khan and Gaurav Verma under Red Chillies Entertainment. The film stars Shah Rukh Khan in a dual role as father and son doppelgängers who team up to rectify corruption in society. Nayanthara, Vijay Sethupathi, Deepika Padukone (billed as a special appearance), Priyamani and Sanya Malhotra appear in supporting roles.",
+    text: "Jawan(transl.Soldier) is a 2023 Indian Hindi-language action thriller film co-written and directed by Atlee as his first Hindi film.[4] It is produced by Gauri Khan and Gaurav Verma under Red Chillies Entertainment. The film stars Shah Rukh Khan in a dual role as father and son doppelgängers who team up to rectify corruption in society. Nayanthara, Vijay Sethupathi, Deepika Padukone (billed as a special appearance), Priyamani and Sanya Malhotra appear in supporting roles.",
   },
   {
     id: 4,
@@ -82,7 +82,7 @@ function Storedata(props) {
     name: "Gadar -2",
     image:
       "https://akm-img-a-in.tosshub.com/indiatoday/images/media_bank/202308/gadar-2-passed-with-10-cuts-020258-16x9_0.jpeg?VersionId=J4B0xkQmbmPhdai0y7Twr5YR5MUsnaQ5&size=690:388",
-    text: "Gadar     2 (transl.Rebellion 2; subtitled onscreen with The Katha Continues) is a 2023 Indian Hindi-language period action drama film directed and produced by Anil Sharma and written by Shaktimaan Talwar. A sequel to Gadar: Ek Prem Katha (2001), it stars Sunny Deol, Ameesha Patel and Utkarsh Sharma, who reprise their roles from the previous film.[5] During the Indo-Pakistani War of 1971, Tara Singh returns to Pakistan in order to rescue his imprisoned son Charanjeet jeete Singh.Gadar 2 was theatrically released on 11 August 2023 and became a commercial success, grossing over ₹691.08 crore (US$87 million) worldwide against a production budget of ₹60 crore (US$7.5 million). It is the third highest-grossing Indian film of 2023 and seventh highest-grossing Hindi film of all-time.[6][7]",
+    text: "Gadar  2 (transl.Rebellion 2; subtitled onscreen with The Katha Continues) is a 2023 Indian Hindi-language period action drama film directed and produced by Anil Sharma and written by Shaktimaan Talwar. A sequel to Gadar: Ek Prem Katha (2001), it stars Sunny Deol, Ameesha Patel and Utkarsh Sharma, who reprise their roles from the previous film.[5] During the Indo-Pakistani War of 1971, Tara Singh returns to Pakistan in order to rescue his imprisoned son Charanjeet jeete Singh.Gadar 2 was theatrically released on 11 August 2023 and became a commercial success, grossing over ₹691.08 crore (US$87 million) worldwide against a production budget of ₹60 crore (US$7.5 million). It is the third highest-grossing Indian film of 2023 and seventh highest-grossing Hindi film of all-time.[6][7]",
   },
 
   // Hollywood section 
