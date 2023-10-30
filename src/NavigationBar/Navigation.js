@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useState } from "react";
 import { BrowserRouter, Routes, Route, Link } from "react-router-dom";
 import Home from "../AllComponents/Home";
 import Bollywood from "../AllComponents/Bollywood";
@@ -9,37 +9,55 @@ import Food from "../AllComponents/Food";
 import Storedata from "../Routes/Storedata";
 import UsedataDynamically from "../Routes/Dynamicdata";
 import Footer from "../Footer/Footer";
+// import hamburgerimage from "./hamburgerimage.png"
+
 // import HamburgerMenu from "./Hamburgermenu";
 // import { StoredData } from "../store/Store";
 
 const NavBar = () => {
+
+  const [open, setopen] = useState(true);
+
+  const toggleMenu = () => {
+    setopen(!open);
+    console.log(open)
+  };
+  const closenavigate = () => {
+    setopen(true);
+    console.log(open)
+}
+
   return (
     <>
     <div className="Wrap">
     <div className="logo">
         <span className="The">THE</span>
         <span className="siren">SIREN</span>
+         
+      <div className='hamburgermenu' onClick={toggleMenu}>
+                        <i className="fa-solid fa-bars"></i>
+      </div>
     </div>
       {/* <HamburgerMenu /> */}
       <BrowserRouter>
-        <div className="Navbar ">
+        <div className={open ? "Navbar Navbar2" : "Navbarnone"} >
           <div className="NavTools">
-            <Link to="/" className="Home">Home</Link>
+            <Link to="/" className="Home" onClick={closenavigate}>Home</Link>
           </div>
           <div className="NavTools">
-            <Link to="/bollywood">Bollywood</Link>
+            <Link to="/bollywood" onClick={closenavigate}>Bollywood</Link>
           </div>
           <div className="NavTools">
-            <Link to="/technology">Technology</Link>
+            <Link to="/technology" onClick={closenavigate}>Technology</Link>
           </div>
           <div className="NavTools">
-            <Link to="/hollywood">Hollywood</Link>
+            <Link to="/hollywood" onClick={closenavigate}>Hollywood</Link>
           </div>
           <div className="NavTools">
-            <Link to="/fitness">Fitness</Link>
+            <Link to="/fitness" onClick={closenavigate}>Fitness</Link>
           </div>
           <div className="NavTools">
-            <Link to="/food">Food</Link>
+            <Link to="/food" onClick={closenavigate}>Food</Link>
           </div>
         </div>
         <Storedata>
